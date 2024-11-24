@@ -1,5 +1,6 @@
 task 1 = get milk
 task 2 = get crossaint
-task 3 = buy apple
+task 3 = buy bleu berry
 task 4 = buy camera
 task 5 = call family
+task 6 = send money to joseph
